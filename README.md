@@ -6,3 +6,6 @@ I'm passionate about *Design engineering* and its applications using *Artificial
 - 📫 How to reach me: jerryagenonga@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I believe **Murphy's laws** rule the world!
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jerryagenonga)
+
